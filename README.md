@@ -1,2 +1,2 @@
 # Courses
-this repo is for courses project at uic
+this repo is for cs511 AI2 project.
